@@ -1,0 +1,4 @@
+application:
+  base_url: "https://playwright.dev/"
+  docs_url: "https://playwright.dev/docs/intro"
+  cli_docs_url: "https://playwright.dev/docs/test-cli"  
